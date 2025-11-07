@@ -1,0 +1,16 @@
+.home {
+  text-align: center;
+  padding: 2rem;
+}
+
+.home h1 {
+  color: white;
+  margin-bottom: 2rem;
+}
+
+.song-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  justify-items: center;
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Neon Nights",
+    "artist": "DJ Pulse",
+    "albumArt": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=600&q=60",
+    "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Midnight Drive",
+    "artist": "Luna Waves",
+    "albumArt": "https://images.unsplash.com/photo-1521335629791-ce4aec67ddaf?auto=format&fit=crop&w=600&q=60",
+    "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Sunset Groove",
+    "artist": "The Oranges",
+    "albumArt": "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?auto=format&fit=crop&w=600&q=60",
+    "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+  }
+]
